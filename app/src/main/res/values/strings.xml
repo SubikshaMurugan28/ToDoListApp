@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do List App</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_task_button">add_task_button</string>
+    <string name="scroll_view_content">scroll_view_content</string>
+    <string name="linear_layout_container">linear_layout_container</string>
+    <string name="task">Task</string>
+    <string name="name">Name</string>
+    <string name="delete">Delete</string>
+</resources>
